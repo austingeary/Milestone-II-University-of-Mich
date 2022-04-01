@@ -1,0 +1,6 @@
+com.samsung.health.device_profile,6211031,6
+manufacturer,providing_step_goal,step_source_group,device_type,backsync_step_goal,capability,device_group,update_time,create_time,name,model,connectivity_type,deviceuuid,pkg_name,fixed_name,datauuid
+all_target,,,,,,0,2022-03-26 15:59:00.519,2022-03-26 15:59:00.519,all_target,all_target,,Mk66SbFqK1,com.sec.android.app.shealth,Austin Pixel 3a,471ca32b-a665-1e9e-7c27-7ac69485dc05,
+Google,,,,,,360001,2022-03-26 15:56:36.584,2022-03-26 15:56:36.584,My Device,Pixel 3a,,Idp7XEd6un,com.sec.android.app.shealth,Austin Pixel 3a,00c7ef3f-a6ad-809c-39ed-40343fe5326e,
+Combined,,,,,,0,2022-03-26 15:59:00.272,2022-03-26 15:59:00.272,Combined,Combined,,VfS0qUERdZ,com.sec.android.app.shealth,Austin Pixel 3a,7af9722c-cd99-07b7-853a-43ce58e819c5,
+Samsung Electronics,1,19,10046,1,0da98c9f-6500-aa3f-ac24-2e1fab7529e4.capability.json,360003,2022-03-26 15:56:36.735,2022-03-26 15:56:36.729,Galaxy Watch Active,,,j9zBUHWfhn,com.sec.android.app.shealth,Austin Pixel 3a,0da98c9f-6500-aa3f-ac24-2e1fab7529e4,
